@@ -1,8 +1,11 @@
 {
     "name": "jquery-bgswitcher",
     "version": "0.4.3",
-    "license": "MIT",
     "private": true,
+    "main": "jquery-bgswitcher.js",
+    "dependencies": {
+        "jquery": ">=1.7"
+    },
     "ignore": [
         "**/.*",
         "node_modules",
